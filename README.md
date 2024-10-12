@@ -6,9 +6,8 @@
 
 ## 🚀 Tech Stack
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Figma
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Figma, React (Basics)
 - **Backend:** Django, SQL, .NET (Basics)
-- **Other:** React (Basics)
 
 ---
 
