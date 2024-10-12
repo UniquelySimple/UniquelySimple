@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm **Rahul Pramanik**!
+# 👋🏼 Hi, I'm **Rahul Pramanik**!
 
 👨‍💻 **Full Stack Web Developer** with a flair for crafting dynamic user experiences.
 
